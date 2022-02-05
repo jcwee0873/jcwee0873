@@ -17,7 +17,7 @@ NLP와 Recommendation system을 통해 금융 상담 및 상품추천 모델 제
 - scikit-learn의 회귀, 분석 모델 활용이 가능하며 seaborn을 활용한 데이터 시각화가 가능합니다.
 
 #### Application
-- Flutter를 통해 Front-end 개발이 가능하며 GetX를 통한 상태관리를 
+- Flutter를 통해 Front-end 개발이 가능하며 GetX를 통한 상태관리를 선호합니다.
 - FastAPI, Flask를 통해 REST API 개발이 가능합니다.   
 </br>
 </br>
