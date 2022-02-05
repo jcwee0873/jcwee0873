@@ -14,7 +14,7 @@ NLP와 Recommendation system을 통해 금융 상담 및 상품추천 모델 제
 - PyTorch를 이용하여 DNN, CNN, RNN, AutoEncoder 등의 딥뉴럴네트워크 구성이 가능하며,\
   ignite 모듈을 통한 학습 코드 작성이 가능합니다.
 - word2vec, glove, fasttext, Embedding Layer 등을 이용하여 단어를 dense vector화 및 목적에 따른 classify가 가능합니다.
-- scikit-learn의 회귀, 분석 모델 활용이 가능하며 seaborn을 활용한 데이터 시각화가 가능합니다.
+- scikit-learn의 회귀, 분류 등 모델 활용이 가능하며 seaborn을 활용한 데이터 시각화가 가능합니다.
 
 #### Application
 - Flutter를 해 Front-end 개발이 가능하며 GetX를 통한 상태관리를 선호합니다.
