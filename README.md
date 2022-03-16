@@ -8,17 +8,18 @@ NLP와 Recommendation system을 통해 금융 상담 및 상품추천 모델 제
 논문, 서적, 온라인 강의 등의 매체를 통해 추가적으로 자연어처리에 대해 공부하고있습니다.
 </br>
 </br>
+
+## 경력  
+__CGINSIDE__ / 데이터 분석  
+2022. 3 ~
    
 ## 보유 기술/경험
 #### Machine Learning
-- PyTorch를 이용하여 DNN, CNN, RNN, AutoEncoder 등의 딥뉴럴네트워크 구성이 가능하며,\
-  ignite 모듈을 통한 학습 코드 작성이 가능합니다.
-- word2vec, glove, fasttext, Embedding Layer 등을 이용하여 단어를 dense vector화 및 목적에 따른 classify가 가능합니다.
-- scikit-learn의 회귀, 분류 등 모델 활용이 가능하며 seaborn을 활용한 데이터 시각화가 가능합니다.
+- PyTorch를 이용한 자연어처리
 
 #### Application
-- Flutter를 해 Front-end 개발이 가능하며 GetX를 통한 상태관리를 선호합니다.
-- FastAPI, Flask를 이용해 REST API 개발이 가능합니다.   
+- Froent-End: Flutter
+- RestAPI: FastAPI  
 </br>
 </br>
    
