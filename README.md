@@ -13,12 +13,13 @@ __CGINSIDE__ / 데이터 분석
 2022. 3 ~
    
 ## 보유 기술/경험
-#### Machine Learning
-- PyTorch를 이용한 자연어처리
+#### Data
+- PyTorch를 이용한 자연어처리 (+ HuggingFace)  
+- OpenSearch & OpenSearchDashboards & Logstash (ELK)
 
 #### Application
 - Froent-End: Flutter
-- RestAPI: FastAPI  
+- RestAPI: FastAPI
 </br>
 </br>
    
